@@ -1,8 +1,3 @@
-# React + Vite
+Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I was unable to complete the full assignment due to my demanding work schedule, as I have been working more than 10 hours per day at my company. Given these extensive work commitments, I could only start the assignment on Sunday morning, which left me with insufficient time to complete it as required. I sincerely apologize for the delay and any inconvenience this may have caused. I appreciate your understanding and would be grateful for any additional time to complete the remaining work. Please let me know if there are any alternatives or adjustments I can make to meet expectations.
